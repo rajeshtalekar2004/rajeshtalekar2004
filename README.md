@@ -26,7 +26,7 @@ https://medium.com/@yourusername
 ### 📫 How to reach me  
 **rajeshtalekar8016@gmail.com**
 
-<a href="https://linkedin.com/in/rajeshtalekar" target="blank">
+<a href="https://linkedin.com/in/rajeshtalekar" target="blank" title="Connect with Rajesh Talekar on LinkedIn">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajeshtalekar" height="30" width="40" />
 </a>
 <a href="https://fb.com/rajeshtalekar" target="blank">
@@ -41,7 +41,7 @@ https://medium.com/@yourusername
 ## ⚡ Technologies & Tools
 
 ### 💻 Programming Languages
-<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
+<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer" title="Microsoft C#"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
 </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
