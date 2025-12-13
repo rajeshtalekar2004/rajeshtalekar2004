@@ -18,7 +18,7 @@
 [https://github.com/rajeshtalekar2004](https://github.com/rajeshtalekar2004)
 
 ### 📝 I regularly write articles on  
-https://medium.com/@yourusername  
+[https://www.linkedin.com/in/rajeshtalekar](https://www.linkedin.com/in/rajeshtalekar/recent-activity/articles/)
 
 ### 💬 Ask me about  
 .NET, Azure, AWS, DevOps, Microservices, System Design
